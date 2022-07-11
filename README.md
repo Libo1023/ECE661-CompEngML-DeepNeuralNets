@@ -7,4 +7,4 @@ Homework 1: Linear Model, Back Propagation, and Building a CNN
 Homework 2: Construct, Train, and Optimize CNN Models  
 Homework 3: Understand and Implement Recurrent Models and Transformers  
 Homework 4: Pruning and Fixed-point Quantization  
-Homework 5: Adversarial Attacks and Defenses
+Homework 5: Adversarial Attacks and Defenses  
